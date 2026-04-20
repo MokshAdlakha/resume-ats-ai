@@ -1,0 +1,5 @@
+flask
+pdfminer.six
+python-docx
+spacy
+gunicorn

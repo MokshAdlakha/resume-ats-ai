@@ -1,0 +1,5 @@
+echo "uploads/
+__pycache__/
+*.pyc
+resumes.db
+.env" > .gitignore
