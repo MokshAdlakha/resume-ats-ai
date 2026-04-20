@@ -5,7 +5,7 @@ An AI-powered resume screening tool that parses multiple PDF/DOCX resumes, extra
 ---
 
 ## 🚀 Live Demo
-> Coming soon — deploying on Render
+https://resume-ats-ai.onrender.com/
 
 ---
 
