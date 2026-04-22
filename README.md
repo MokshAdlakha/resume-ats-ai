@@ -97,7 +97,16 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-> _Add screenshots of your app here_
+<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/b86ff1e6-5c76-4fbe-8feb-b463b18128d3" />
+
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/5c715e85-ba23-4901-b4a9-9ae29be0ac11" />
+
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/33e13679-8283-4a94-92b8-3e491e9a114b" />
+
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/077eb2f8-930d-45ba-8246-fea4e1f5be38" />
+
+
+
 
 ---
 
